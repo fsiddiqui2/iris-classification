@@ -61,16 +61,6 @@ Alternatively, run the notebook directly on [Kaggle](https://www.kaggle.com/) or
 * Text-based tree structure using `tree_` attributes
 * SVM decision surface via `DecisionBoundaryDisplay`
 
-## File Structure
-
-```
-📁 iris-ml-classification/
-│
-├── iris_classification.ipynb     # Main notebook
-├── README.md                     # Project overview
-├── requirements.txt              # Python dependencies
-```
-
 ## Future Improvements
 
 * Add cross-validation performance visualizations
