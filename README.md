@@ -76,7 +76,6 @@ Alternatively, run the notebook directly on [Kaggle](https://www.kaggle.com/) or
 * Add cross-validation performance visualizations
 * Introduce ensemble methods (e.g., Random Forest, Gradient Boosting)
 * Wrap models in reusable functions/classes
-* Export models using `joblib` or `pickle`
 
 ## License
 
