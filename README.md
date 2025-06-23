@@ -1,8 +1,8 @@
-# Iris Classification: From Binary to Multiclass with Scikit-Learn
+# Iris Classification: Binary/Multiclass with Scikit-Learn
 
 This project explores binary and multiclass classification using the classic **Iris dataset**. The notebook covers data preprocessing, visualization, model building, evaluation, and hyperparameter tuning using various machine learning algorithms from **scikit-learn**.
 
-## Project Highlights
+## Overview
 
 * **Dataset**: Built-in `sklearn.datasets.load_iris()`
 * **Tech stack**: Python, NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib
@@ -22,8 +22,8 @@ This project explores binary and multiclass classification using the classic **I
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/iris-ml-classification.git
-cd iris-ml-classification
+git clone https://github.com/fsiddiqui2/iris-classification.git
+cd iris-classification
 pip install -r requirements.txt
 ```
 
