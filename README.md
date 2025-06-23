@@ -2,8 +2,6 @@
 
 This project explores binary and multiclass classification using the classic **Iris dataset**. The notebook covers data preprocessing, visualization, model building, evaluation, and hyperparameter tuning using various machine learning algorithms from **scikit-learn**.
 
----
-
 ## Project Highlights
 
 * **Dataset**: Built-in `sklearn.datasets.load_iris()`
@@ -18,8 +16,6 @@ This project explores binary and multiclass classification using the classic **I
   * Pipelines and scaling with `StandardScaler`
   * Decision tree structure inspection
   * SVM decision boundary visualization (2D)
-
----
 
 ## Setup
 
@@ -41,8 +37,6 @@ pip install -r requirements.txt
 
 Alternatively, run the notebook directly on [Kaggle](https://www.kaggle.com/) or in a Jupyter environment.
 
----
-
 ## Notebook Overview
 
 ### 1. Binary Classification
@@ -60,16 +54,12 @@ Alternatively, run the notebook directly on [Kaggle](https://www.kaggle.com/) or
 * Tuned hyperparameters for each model
 * Visualized decision boundaries for SVM (2D)
 
----
-
 ## Example Outputs
 
 * Decision tree plot via `sklearn.tree.plot_tree`
 * Feature correlations and scatter plots with Seaborn
 * Text-based tree structure using `tree_` attributes
 * SVM decision surface via `DecisionBoundaryDisplay`
-
----
 
 ## File Structure
 
@@ -81,8 +71,6 @@ Alternatively, run the notebook directly on [Kaggle](https://www.kaggle.com/) or
 ├── requirements.txt              # Python dependencies
 ```
 
----
-
 ## Future Improvements
 
 * Add cross-validation performance visualizations
@@ -90,13 +78,9 @@ Alternatively, run the notebook directly on [Kaggle](https://www.kaggle.com/) or
 * Wrap models in reusable functions/classes
 * Export models using `joblib` or `pickle`
 
----
-
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute!
-
----
 
 ## Acknowledgments
 
